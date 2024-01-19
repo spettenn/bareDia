@@ -11,7 +11,8 @@ const Footer = () => {
 						/>
 						<p>
 							House My Brand designs clothing for the young, the old & everyone
-							in between – but most importantly, for the fashionable
+							in between – but most importantly, for the fashionable. This is
+							great!
 						</p>
 						<ul className='site-footer__social-networks'>
 							<li>
